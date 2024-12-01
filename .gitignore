@@ -1,0 +1,14 @@
+
+# mac
+.DS_Store
+
+# binary files
+**/bin
+**/build
+**/obj
+
+# specs, output, etc
+# **/project_specs
+**/*.pdf
+
+**/output
